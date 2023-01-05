@@ -1,0 +1,10 @@
+komu-peter@HBPC-AsusFX-012:/$ mkdir -p Work/Linux/exercises
+mkdir: cannot create directory ‘Work’: Permission denied
+komu-peter@HBPC-AsusFX-012:/$ ls
+bin   dev  home  lib    lib64   lost+found  mnt  proc  run   snap  sys  usr
+boot  etc  init  lib32  libx32  media       opt  root  sbin  srv   tmp  var
+komu-peter@HBPC-AsusFX-012:/$ cd home
+komu-peter@HBPC-AsusFX-012:/home$ cd ~
+komu-peter@HBPC-AsusFX-012:~$ mkdir -p Work/Linux/exerises
+komu-peter@HBPC-AsusFX-012:~$ cd Work/Linux/exerises
+komu-peter@HBPC-AsusFX-012:~/Work/Linux/exerises$ touch exercice1.txt

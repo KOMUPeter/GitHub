@@ -1,0 +1,4 @@
+total 4
+-rw-r--r-- 1 komu-peter komu-peter   0 Jan  5 14:54 exercice1.txt
+-rw-r--r-- 1 komu-peter komu-peter 565 Jan  5 15:07 exercise.txt
+-rw-r--r-- 1 komu-peter komu-peter   0 Jan  5 15:12 exercise2.txt
