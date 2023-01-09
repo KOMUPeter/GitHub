@@ -1,0 +1,8 @@
+ - 205 oct 
+ - /etc/
+ - /bin/.
+ - ps, et ps -e 
+ - less>> ouvre une interface pour lire le fichier fichier et permet d'y naviguer, d'y faire des recherches, etc. et more>> affiche le contenu du fichier progressivement (écran par écran), jusqu'à la fin du fichier.
+
+ - l'arrêt du programme java poliment >> pkill
+ - rrêter le processus ayant l'identifiant 5240  >> kill
