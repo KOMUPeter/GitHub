@@ -1,3 +1,4 @@
+git restore 
 komu-peter@HBPC-AsusFX-012:/$ mkdir -p Work/Linux/exercises
 mkdir: cannot create directory ‘Work’: Permission denied
 komu-peter@HBPC-AsusFX-012:/$ ls
